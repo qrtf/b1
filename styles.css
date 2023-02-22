@@ -47,9 +47,9 @@ form {
 }
 .flip-card {
     background-color: #212427;
-    width: 40vh;
+    width: 60vh;
     border-radius: 10px;
-    height: 60vh;
+    height: 80vh;
     border: 1px solid #f1f1f1;
     perspective: 900px; /* Remove this if you don't want the 3D effect */
   }
